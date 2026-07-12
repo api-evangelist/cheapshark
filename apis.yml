@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.cheapshark.com/api
 common:
+  - type: DomainSecurity
+    url: security/cheapshark-domain-security.yml
   - type: Website
     url: https://www.cheapshark.com/api
   - type: PublicAPIsListing
