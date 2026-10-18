@@ -40,7 +40,8 @@ apis:
   - name: CheapShark
     description: "Steam/PC Game Prices and Deals"
     humanURL: https://www.cheapshark.com/api
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
